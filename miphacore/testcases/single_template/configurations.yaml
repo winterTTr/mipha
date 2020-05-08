@@ -1,0 +1,3 @@
+configurations:
+  context_foo:
+    foo: bar
