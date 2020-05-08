@@ -1,5 +1,5 @@
 # mipha
-![](https://github.com/winterttr/mipha/workflows/go.yml/badge.svg)
+![](https://github.com/winterttr/mipha/workflows/Go/badge.svg)
 
 Yet another template render cli
 
